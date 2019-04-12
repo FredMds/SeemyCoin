@@ -12,7 +12,7 @@ class App extends Component {
                   <header className="container">
                       <nav className="navbar">
                           <div className="navbar-brand">
-                              <span className="navbar-item">SeeMyCoin</span>
+                              <a className="navbar-item" href ={'https://github.com/FredMds'}>SeeMyCoin</a>
                           </div>
 
                       </nav>
